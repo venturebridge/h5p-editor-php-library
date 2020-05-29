@@ -1,5 +1,5 @@
 {
-    "name": "h5p/h5p-editor",
+    "name": "venturebridge/h5p-editor",
     "type": "library",
     "description": "H5P Editor functionality in PHP",
     "keywords": ["h5p","hvp","editor","interactive","content","quiz"],
